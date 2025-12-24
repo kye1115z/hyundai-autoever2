@@ -43,4 +43,4 @@ cd hyundai-autoever
 
 ## 라이선스
 
-Copyright © 2024 Hyundai AutoEver Corp. All rights reserved.
+Copyright © 2024 Hyundai AutoEver Corp. All rights reserved..
